@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SWT_Lab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SWT_Lab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
